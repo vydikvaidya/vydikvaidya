@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vvydiknarayan@gmail.com** OR **vydikvaidya@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ vydik-vaidya](www.linkedin.com/in/ vydik-vaidya)
+- 📄 Know about my experiences https://www.linkedin.com/in/vydik-vaidya
 
 - ⚡ Fun fact **I'm interested in photography and editing.**
 
