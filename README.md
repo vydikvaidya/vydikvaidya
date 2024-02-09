@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **vvydiknarayan@gmail.com** OR **vydikvaidya@gmail.com**
 
+- My work: https://vydikvaidya.github.io/The-Pixel-Threads/
+
 - 📄 Know about my experiences https://www.linkedin.com/in/vydik-vaidya
 
 - ⚡ Fun fact **I'm interested in photography and editing.**
