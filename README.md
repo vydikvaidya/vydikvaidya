@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm vydik</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently studying in **Mahatma Gandhi Institute of Technology as a CSE student.**
+-👨‍💻 Front-end Developer
 
-- 👨‍💻 All of my projects are available at [https://github.com/vydikvaidya?tab=repositories](https://github.com/vydikvaidya?tab=repositories)
+- 🔭 Completed BTech from **Mahatma Gandhi Institute of Technology as a CSE student.**
 
-- 📫 How to reach me **vydikvaidya@gmail.com**
+- 📫 How to reach me **vvydiknarayan@gmail.com** OR **vydikvaidya@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ vydik-vaidya-6a44ab237](www.linkedin.com/in/ vydik-vaidya-6a44ab237)
+- 📄 Know about my experiences [www.linkedin.com/in/ vydik-vaidya](www.linkedin.com/in/ vydik-vaidya)
 
 - ⚡ Fun fact **I'm interested in photography and editing.**
 
